@@ -1,0 +1,2 @@
+List: docker images -a
+Remove: docker rmi Image Image
